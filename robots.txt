@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://equipeassessoria.com.br/sitemap.xml
